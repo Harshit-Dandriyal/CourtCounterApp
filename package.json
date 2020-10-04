@@ -1,0 +1,25 @@
+{
+  "name": "websitegift",
+  "version": "1.0.0",
+  "description": "A Gift for Sister",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harshit-Dandriyal/WEBSITEGIFT.git"
+  },
+  "author": "Harshit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harshit-Dandriyal/WEBSITEGIFT/issues"
+  },
+  "homepage": "https://github.com/Harshit-Dandriyal/WEBSITEGIFT#readme",
+  "dependencies": {
+    "jsonfile": "^6.0.1",
+    "moment": "^2.29.0",
+    "random": "^2.2.0",
+    "simple-git": "^2.20.1"
+  }
+}
